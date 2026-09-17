@@ -1,3 +1,4 @@
-these is the first push on GitHub using git
-
-know we are able to push these is the second time pushing 
+For example, Participant 3 might change the navigation component while Participant 7 is also changing the same navigation component. When their work is combined, Git may discover that both developers modified the same lines differently
+Instead of treating the conflict as a failure, the facilitator will use it as part of the demonstration. The participants will inspect the conflict, understand what each developer changed, communicate with one another, decide how the changes should be combined, resolve the conflict, test the application, and commit the resolution.
+This demonstrates an important lesson: Git cannot make every development decision for the team. Developers still need to communicate and understand the code they are merging.
+As the project continues, participants will also practice other collaboration activities. They may create GitHub Issues to describe bugs or new features. A participant may create an issue such as "Improve mobile navigation," while another creates "Add validation to registration form." The team can then assign these issues to participants and use them to organize the work.
