@@ -1,3 +1,3 @@
-these is the first push on GitHub using git
-
-know we are able to push these is the second time pushing 
+Participants can also use labels to categorize issues, such as bug, feature, documentation, frontend, backend, or help wanted. They can reference an issue from a Pull Request so that the team can understand which task the Pull Request is solving.
+The team can also use GitHub Discussions or project boards where appropriate to communicate about the project, organize tasks, and track progress. The purpose is to give participants experience with the broader GitHub workflow rather than only memorizing Git commands.
+Because there are more than 25 participants, communication becomes especially important. Participants should not assume that they are the only person working on a particular file. Before making significant changes to shared components, they should check what other team members are working on and communicate when necessary.
